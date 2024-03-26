@@ -1,0 +1,70 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">ITBI Alumni</string>
+    <string name="alm_name_1">Adriana C. Ocampo Uria</string>
+    <string name="alm_name_2">Albert Einstein</string>
+    <string name="alm_name_3">Anna K. Behrensmeyer</string>
+    <string name="alm_name_4">Blaise Pascal</string>
+    <string name="alm_name_5">Caroline Herschel </string>
+    <string name="alm_name_6">Cecilia Payne-Gaposchkin </string>
+    <string name="alm_name_7">Chien-Shiung Wu</string>
+    <string name="alm_name_8">Dorothy Hodgkin</string>
+    <string name="alm_name_9">Edmond Halley</string>
+    <string name="alm_name_10">Edwin Powell Hubble</string>
+    <string name="alm_name_11">Elizabeth Blackburn</string>
+    <string name="alm_gen">2560 รุ่นที่13</string>
+    <string name="alm_add">1 Root33 Burapha Sakaeo 27160</string>
+    <string name="alm_em_1"> Uria@exam.com</string>
+    <string name="alm_em_2"> Einstein@exam.com</string>
+    <string name="alm_em_3">Behrensmeyer@exam.com</string>
+    <string name="alm_em_4">Pascal@exam.com</string>
+    <string name="alm_em_5">Herschel@exam.com</string>
+    <string name="alm_em_6">Cecilia@exam.com</string>
+    <string name="alm_em_7">Wu@exam.com</string>
+    <string name="alm_em_8">Hodgkin@exam.com</string>
+    <string name="alm_em_9">Halley@exam.com</string>
+    <string name="alm_em_10">Hubble@exam.com</string>
+    <string name="alm_em_11">Blackburn@exam.com</string>
+    <string name="alm_id_1">60410001</string>
+    <string name="alm_id_2">60410002</string>
+    <string name="alm_id_3">60410003</string>
+    <string name="alm_id_4">60410004</string>
+    <string name="alm_id_5">60410005</string>
+    <string name="alm_id_6">60410006</string>
+    <string name="alm_id_7">60410007</string>
+    <string name="alm_id_8">60410008</string>
+    <string name="alm_id_9">60410009</string>
+    <string name="alm_id_10">60410010</string>
+    <string name="alm_id_11">60410011</string>
+    <string name="alm_tel_1">0817898908</string>
+    <string name="alm_tel_2">0909878979</string>
+    <string name="alm_tel_3">0303927398</string>
+    <string name="alm_tel_4">0603242534</string>
+    <string name="alm_tel_5">0809808433</string>
+    <string name="alm_tel_6">0902673492</string>
+    <string name="alm_tel_7">0706772324</string>
+    <string name="alm_tel_8">0509803242</string>
+    <string name="alm_tel_9">0902347679</string>
+    <string name="alm_tel_10">0812347890</string>
+    <string name="alm_tel_11">0502489329</string>
+    <string name="address">Address:</string>
+    <string name="tel">Tel:</string>
+    <string name="name">Name:</string>
+    <string name="about">Email:</string>
+    <string name="years_old">รหัส: %d</string>
+    <string name="expand_button_content_description">See more.</string>
+</resources>
